@@ -1,3 +1,5 @@
+> **Archived 2026-10-08.** No further development; this work continues in a private repository.
+
 # GraphRAG Buddhism Project
 
 A GraphRAG implementation for analyzing Buddhist texts, specifically focusing on the Heart Sutra.
